@@ -1,0 +1,14 @@
+{
+  "name": "mein-npm-projekt",
+  "version": "1.0.0",
+  "description": "Dies ist mein NPM Projekt und es macht Dinge",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Torben Köhn",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
